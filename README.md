@@ -28,3 +28,11 @@ https://drive.google.com/open?id=1NsErzDh3Mlao_MdT40NVYpgERy-xVTyDNtjDcZza8Hc
 [Demo](https://xt0perx.github.io/popup-style/) |
 [Code base](https://github.com/xT0PERx/popup-style)|
 <p>Reviewed and approved by @A-Ostrovnyy.</p>
+
+## JS Basics
+[Intro to JS](https://docs.google.com/drawings/d/1ntOG_5jYxfAJ6bO3EQmEoKJBikkRwtUqVingWfAIdrs/edit?usp=sharing) <= [screenshot]
+
+[FreeCodeCamp exercises](https://docs.google.com/drawings/d/19CxHWdnWG-s10lHNj4T3wryvWArpWBL_jq84CTsk3_U/edit?usp=sharing) <= [screenshot]
+
+  
+  
