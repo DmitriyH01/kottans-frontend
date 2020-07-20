@@ -34,5 +34,9 @@ https://drive.google.com/open?id=1NsErzDh3Mlao_MdT40NVYpgERy-xVTyDNtjDcZza8Hc
 
 [FreeCodeCamp exercises](https://docs.google.com/drawings/d/19CxHWdnWG-s10lHNj4T3wryvWArpWBL_jq84CTsk3_U/edit?usp=sharing) <= [screenshot]
 
+## DOM
+[JavaScript and the DOM](https://docs.google.com/drawings/d/1gRCmBhfgycZPow1kO7KEKiAcCTaqkNZtjnLwkn4jiVI/edit?usp=sharing) <= [screenshot]
+
+[freecodecamp Algorithm Scripting Challenges](https://docs.google.com/drawings/d/1HqekFJupGCG0vHK5eRZMfq1U5iH4siTWwc3wUWvEGH8/edit?usp=sharing) <= [screenshot]
   
   
