@@ -1,28 +1,28 @@
 ## Linux CLI, and HTTP 
-https://drive.google.com/open?id=1s7wjVaYuHvj9kyk8tNX1qJ9ArLrvBMuabz0w-2Ys2mI
+<a href ="https://docs.google.com/drawings/d/1s7wjVaYuHvj9kyk8tNX1qJ9ArLrvBMuabz0w-2Ys2mI/edit?usp=sharing">Linux CLI, and HTTP</a>
 
-<p>Наверное, больше всего меня заставил задуматься именно этот пункт в задании - "поделиться впечатлениями". Для меня сама сфера программирования - в новинку, изучение Linux мне далось проще, так как я уже познакомился с GitBash до этого. Одно могу сказать точно, мне нравится данный материал, я буду и дальше проходить данный курс.</p>
-<p>И самое главное - большое человеческое спасибо тем людям которые работали над созданием данного курса, спасибо вам за то что дали возможность людям научиться чему-то новому и востребованному в нашем современном мире.</p>
+<p>Probably, this point in the assignment - "share impressions" made me think the most. For me, the field of programming itself is a novelty, learning Linux was easier for me, since I already got acquainted with GitBash before. One thing I can say for sure, I like this material, I will continue to take this course.</p>
+<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
 
 ## Git Collaboration
-https://drive.google.com/open?id=1x-R0_qt9xrntdvTTLqLR5POThMGXd5cMVNVqw7s8LZ4
-<p>https://drive.google.com/open?id=1i7WhbXDgpnZLHPC3_r_HKLWXACQNHJVd-RC8oKy7OPM</p>
+<a href ="https://drive.google.com/open?id=1x-R0_qt9xrntdvTTLqLR5POThMGXd5cMVNVqw7s8LZ4">What is version control</a>
+<p><a href = "https://drive.google.com/open?id=1i7WhbXDgpnZLHPC3_r_HKLWXACQNHJVd-RC8oKy7OPM"> GitHub & Collaboration</a></p>
 
-<p>Ну вот и 3 пункт курса Front-end пройден. С каждым шагом становится легче понимать и усваивать материал, по крайней мере пока-что :) Пройти данный пунк было легче так как уже поупражнялся до этого в try.github.io. Ну и по традиции.</p>
-<p>И самое главное - большое человеческое спасибо тем людям которые работали над созданием данного курса, спасибо вам за то что дали возможность людям научиться чему-то новому и востребованному в нашем современном мире.</p>
+<p>Well, here's the third point of the Front-end course passed. With each step it becomes easier to understand and assimilate the material, at least for now :) It was easier to go through this step, as I had already practiced before in try.github.io. Well, by tradition:</p>
+<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
 
 ## Intro to HTML and CSS
-https://docs.google.com/drawings/d/1YBS_oB3KoRuNKh4AACopJXexaUi2SkzRSwlmjXJ6L1k
+<a href = "https://docs.google.com/drawings/d/1YBS_oB3KoRuNKh4AACopJXexaUi2SkzRSwlmjXJ6L1k">Intro to HTML and CSS</a> 
 
-<p>Теперь я имею общие понятия о том что такое HTML и CSS. Выучил основы двух языков, стало понятнее как же работает то что я вижу в своем браузере. Теперь я могу сделать простейший сайт, сделать в нем кое-какую декорацию. Я знаю что такое селекторы и классы. Одним словом я на пути к чему-то большему и очень интерестному.</p>
-<p>И самое главное - большое человеческое спасибо тем людям которые работали над созданием данного курса, спасибо вам за то что дали возможность людям научиться чему-то новому и востребованному в нашем современном мире.</p>
+<p>Now I have a general understanding of what HTML and CSS are. I learned the basics of two languages, it became clearer how what I see in my browser works. Now I can make a simple site, make some decoration in it. I know what selectors and classes are. In a word, I'm on my way to something big and very interesting.</p>
+<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
 
 ## Responsive Web Design
-https://drive.google.com/open?id=1NsErzDh3Mlao_MdT40NVYpgERy-xVTyDNtjDcZza8Hc
-<p>https://drive.google.com/open?id=1pxiPozzRY0MbJWmh6Ry5X_Le5myA9c2e1jAipMrSSPU"</p>
+<a href = "https://drive.google.com/open?id=1NsErzDh3Mlao_MdT40NVYpgERy-xVTyDNtjDcZza8Hc">Flexbox Froggy<a/>
+<p><a href = "https://drive.google.com/open?id=1pxiPozzRY0MbJWmh6Ry5X_Le5myA9c2e1jAipMrSSPU"> Responsive Web Design Fundamentals</a></p>
 
-<p>Вот я и пришел к чему-то большему и интерестному=)) Задания стали сложнее, материал объемнее, самое простое было задание с жабками=)) Одно могу сказать точно - CSS еще та бездонная бочка с кучей всяких разных свойст и значений, ума не приложу сколько нужно времени чтобы хотябы половину из них запомнить? Ну, а пока Google в помощь (появилось столько новых закладок в браузере с интерестной и полезной информацией, как бы найти время все хотя бы раз прочитать). По сути - узнал что такое оптимизация и медиа запросы, попробовал все на вкус=)) Двигаюсь дальше сохраняя позитивный настрой.</p>
-<p>И самое главное - большое человеческое спасибо тем людям которые работали над созданием данного курса, спасибо вам за то что дали возможность людям научиться чему-то новому и востребованному в нашем современном мире.</p>
+<p>So I came to something bigger and more interesting =)) The tasks became more complicated, the material was more voluminous, the simplest was the task with the frogs =)) One thing I can say for sure - CSS is still that bottomless barrel with a bunch of different properties and values, it's not crazy How long will it take to remember at least half of them? In the meantime, Google will help you (there are so many new bookmarks in the browser with interesting and useful information, how to find the time to read everything at least once). In fact, I learned what optimization and media queries are, tasted everything =)) I move on keeping a positive attitude.</p>
+<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
 
 ## HTML & CSS practice: Hooli-style Popup
 [Demo](https://xt0perx.github.io/popup-style/) |
