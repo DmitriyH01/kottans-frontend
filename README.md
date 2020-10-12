@@ -26,7 +26,7 @@
 
 ## HTML & CSS practice: Hooli-style Popup
 [Demo](https://xt0perx.github.io/popup-style/) |
-[Code base](https://github.com/xT0PERx/popup-style)|
+[Code base](https://github.com/xT0PERx/popup-style) |
 <p>Reviewed and approved by @A-Ostrovnyy.</p>
 
 ## JS Basics
@@ -39,4 +39,10 @@
 
 [freecodecamp Algorithm Scripting Challenges](https://docs.google.com/drawings/d/1HqekFJupGCG0vHK5eRZMfq1U5iH4siTWwc3wUWvEGH8/edit?usp=sharing) <= [screenshot]
   
-  
+## Building a Tiny JS World (pre-OOP)
+[Demo](https://xt0perx.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/xT0PERx/a-tiny-JS-world/blob/master/index.js) |
+
+## Object-Oriented JavaScript
+[Object Oriented JS](https://docs.google.com/drawings/d/1wssz6AK3QPC0KNkZ4Ski38z77mhzM28HluETWaFsbOs/edit?usp=sharing) <= [screenshot]<p>
+[Codewars](https://docs.google.com/drawings/d/1ij-o2b9AncJmu5sxT4ZSo1UAOh2X5cRmvNu2Y92GhLg/edit?usp=sharing) <= [screenshot]</p>
