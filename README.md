@@ -38,7 +38,11 @@
 ![JavaScript and the DOM](https://github.com/xT0PERx/kottans-frontend/blob/master/Screenshoots/DOM%20-%20done.jpg?raw=true)
 
 ![freecodecamp Algorithm Scripting Challenges](https://github.com/xT0PERx/kottans-frontend/blob/master/Screenshoots/DOM%20-%20freeCodeCamp.jpg?raw=true)
-  
+
+## Document Object Model - practice
+[Demo](https://xt0perx.github.io/js-DOM-side-menu/) |
+[Code base](https://github.com/xT0PERx/js-DOM-side-menu) |
+
 ## Building a Tiny JS World (pre-OOP)
 [Demo](https://xt0perx.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/xT0PERx/a-tiny-JS-world/blob/master/index.js) |
@@ -46,3 +50,7 @@
 ## Object-Oriented JavaScript
 ![Object Oriented JS](https://github.com/xT0PERx/kottans-frontend/blob/master/Screenshoots/OOP%20-%20done.jpg?raw=true)
 ![Codewars](https://github.com/xT0PERx/kottans-frontend/blob/master/Screenshoots/CodeWars.jpg?raw=true)
+
+## OOP exercise - practice
+[Demo](https://xt0perx.github.io/OOP-exercise/)|
+[Code base](https://github.com/xT0PERx/OOP-exercise)|
