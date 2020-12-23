@@ -1,5 +1,6 @@
 ## Linux CLI, and HTTP 
-<a href ="https://docs.google.com/drawings/d/1s7wjVaYuHvj9kyk8tNX1qJ9ArLrvBMuabz0w-2Ys2mI/edit?usp=sharing">Linux CLI, and HTTP</a>
+![Linux CLI, and HTTP](https://docs.google.com/drawings/d/1s7wjVaYuHvj9kyk8tNX1qJ9ArLrvBMuabz0w-2Ys2mI/edit?usp=sharing)
+
 
 <p>Probably, this point in the assignment - "share impressions" made me think the most. For me, the field of programming itself is a novelty, learning Linux was easier for me, since I already got acquainted with GitBash before. One thing I can say for sure, I like this material, I will continue to take this course.</p>
 <p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
