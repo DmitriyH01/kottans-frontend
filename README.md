@@ -1,15 +1,14 @@
-## Linux CLI, and HTTP 
-![Linux CLI, and HTTP](https://docs.google.com/drawings/d/1s7wjVaYuHvj9kyk8tNX1qJ9ArLrvBMuabz0w-2Ys2mI/edit?usp=sharing)
-
-
-<p>Probably, this point in the assignment - "share impressions" made me think the most. For me, the field of programming itself is a novelty, learning Linux was easier for me, since I already got acquainted with GitBash before. One thing I can say for sure, I like this material, I will continue to take this course.</p>
-<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
-
 ## Git Collaboration
+![Linux CLI, and HTTP](https://raw.githubusercontent.com/xT0PERx/kottans-frontend/master/Screenshoots/0.Git%20Basics.jpg)
 <a href ="https://drive.google.com/open?id=1x-R0_qt9xrntdvTTLqLR5POThMGXd5cMVNVqw7s8LZ4">What is version control</a>
 <p><a href = "https://drive.google.com/open?id=1i7WhbXDgpnZLHPC3_r_HKLWXACQNHJVd-RC8oKy7OPM"> GitHub & Collaboration</a></p>
 
 <p>Well, here's the third point of the Front-end course passed. With each step it becomes easier to understand and assimilate the material, at least for now :) It was easier to go through this step, as I had already practiced before in try.github.io. Well, by tradition:</p>
+<p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
+
+## Linux CLI, and HTTP 
+![Linux CLI, and HTTP](https://raw.githubusercontent.com/xT0PERx/kottans-frontend/master/Screenshoots/1.Linux%20CLI%20and%20Networking.jpg)
+<p>Probably, this point in the assignment - "share impressions" made me think the most. For me, the field of programming itself is a novelty, learning Linux was easier for me, since I already got acquainted with GitBash before. One thing I can say for sure, I like this material, I will continue to take this course.</p>
 <p>And most importantly - a big human thanks to those people who worked on the creation of this course, thank you for giving people the opportunity to learn something new and in demand in our modern world.</p>
 
 ## Intro to HTML and CSS
