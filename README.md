@@ -74,3 +74,11 @@
 ## OOP exercise - practice
 [Demo](https://xt0perx.github.io/OOP-exercise/)|
 [Code base](https://github.com/xT0PERx/OOP-exercise)|
+
+---
+
+## Memory pair game - practice
+[Demo](https://xt0perx.github.io/Memory-pair-game/)|
+[Code base](https://github.com/xT0PERx/Memory-pair-game)|
+
+---
